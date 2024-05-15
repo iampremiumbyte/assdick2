@@ -31,6 +31,7 @@ img {
     opacity: .7;
     border-radius: 10px;
     cursor: pointer;
+    pointer-events: none;
 }
 
 @keyframes blink {
